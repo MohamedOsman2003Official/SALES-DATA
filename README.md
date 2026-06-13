@@ -1,4 +1,4 @@
-PROJECT NAME : SALES COMPANY
+PROJECT NAME : SALES DATA
 -----------------------------
 TOOLS:
 1-EXCEL
